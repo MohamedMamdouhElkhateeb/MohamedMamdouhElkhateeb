@@ -6,7 +6,7 @@
 
 <br><br>
 
-- :school: I am a `Junior` at [College of Computing &Information Technology](https://web.facebook.com/AAST.CCIT.ASWAN) at [Arab Academy for Science, Technology and Maritime Transport](https://aast.edu/en/).
+- :school: I am a `Semi Senior ` at [College of Computing &Information Technology](https://web.facebook.com/AAST.CCIT.ASWAN) at [Arab Academy for Science, Technology and Maritime Transport](https://aast.edu/en/).
 - :I am a Founder & Leader [ICPC AAST Aswan Community ](https://web.facebook.com/profile.php?id=100089626076390)
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
