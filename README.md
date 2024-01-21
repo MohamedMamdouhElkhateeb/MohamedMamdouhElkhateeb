@@ -131,7 +131,7 @@
   &emsp;
 
 </p>
- ### <img src = "" width=5%>My Progress
+ <img src = "" width=5%>My Progress
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
