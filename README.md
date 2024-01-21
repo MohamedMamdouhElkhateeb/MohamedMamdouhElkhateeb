@@ -131,7 +131,7 @@
   &emsp;
 
 </p>
- <img src = "" width=5%>My Progress
+ <img src = "https://www.flaticon.com/free-icon/coding_3242257?term=coding+web&related_id=3242257" width=5%>My Progress
 
 [comment]: <> (for streak dark theme => &theme=dark || for progress dark theme => &theme=react)
 <p align="center">
